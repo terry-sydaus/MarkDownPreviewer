@@ -80,7 +80,7 @@ class Main extends React.Component {
 	  />
 	</div>
 	<div className='c2'>
-	  <h5>Preview of markdown when marked up to HTML</h5>
+	  <h5>Preview of markdown when marked up</h5>
 	  <Previewer
 	    id='preview'
 	    htmlObject={this.convertMarkdownToHTML()}
