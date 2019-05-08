@@ -3,8 +3,8 @@
 import React from 'react';
 
 let style = {
-  minHeight: '300px',
-  width: '600px'
+  //minHeight: '300px',
+  //width: '600px'
 }
 
 const Editor = (props) => (

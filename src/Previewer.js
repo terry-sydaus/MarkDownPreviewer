@@ -3,12 +3,11 @@
 import React from 'react';
 
 let style = {
-  minHeight: '300px',
-  width: '600px',
-  border: 'solid 1px blue'
+  //minHeight: '300px',
+  //width: '600px',
+  border: 'solid 1px lightgrey'
 }
 
-console.log('test from Previewer');
 
 const Previewer = (props) => (
   <div
