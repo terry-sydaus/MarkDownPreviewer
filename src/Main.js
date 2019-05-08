@@ -41,7 +41,7 @@ And just in case any of you didn't quite get how much I love react, let me take 
 > I love React very much!
 
 And how do you recognise React when you see it? What better way than to identify it than through the *React* icon, shown below: 
-![React Logo](./React_logo.png)
+![React Logo](https://i.ibb.co/b5KxSB5/React-logo.png)
 `;
 
 
